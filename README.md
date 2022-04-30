@@ -3,4 +3,4 @@ Many times business problems are more dynamic than what a single A/B test can so
 
 This project is a group work of MSBA students at University of Minnesota: [Xinbo Wang](https://github.com/xinbo-w), [Brandon Park](https://github.com/brandon-park), [Sricharan Sridhar](https://github.com/sricharans), [Phuong Tran](https://github.com/phuongdtrn), and Vivian Ho.
 
-![demo_dashboard.gif](attachment:demo_dashboard.gif)
+![demo_dashboard.gif](https://github.com/xinbo-w/Dynamic-AB-Testing-for-Banner-Optimization/blob/main/demo_dashboard.gif)
