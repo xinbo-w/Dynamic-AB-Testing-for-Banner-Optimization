@@ -1,2 +1,6 @@
-# dynamic-ab-testing-for-banner-showing
-In this repository, we use some sample data simulated from a real-world dataset to demonstrate how to utilize big data technologies including Spark, Hive, and data platforms like Databricks to build a dynamic A/B testing module. This solution is beneficial for business to optimize their decision making in daily operations.
+# Dynamic A/B Testing for Banner Optimization
+Many times business problems are more dynamic than what a single A/B test can solve. In this project, we use a banner showing case to demonstrate how business operations can potentially benefit from continous A/B testing and dynamic strategy choosing.
+
+This project is a group work of MSBA students at University of Minnesota: [Xinbo Wang](https://github.com/xinbo-w), [Brandon Park](https://github.com/brandon-park), [Sricharan Sridhar](https://github.com/sricharans), [Phuong Tran](https://github.com/phuongdtrn), and Vivian Ho.
+
+![demo_dashboard.gif](attachment:demo_dashboard.gif)
